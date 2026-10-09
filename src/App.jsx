@@ -1,46 +1,4 @@
-// import Toggle from "./Toggle"
-// import Counter from "./Counter"
-// import LikedBtn from "./LikedBtn"
 
-// function App() {
-//   return (
-//     <>
-// <Toggle/>
-// <Counter/>
-// <LikedBtn/>
-//     </>
-//   )
-// }
-// import { Useref } from "./useref"
-
-// function App() {
-//    return (
-//      <>
-//  <Useref/>
-//      </>
-//    )
-//  }
-
-// import { useMemo, useState } from "react";
-
-// function App() {
-
-//   const [number, setNumber] = useState(1);
-
-//   const square = useMemo(() => {
-//     return number * number;
-//   }, [number]);
-
-//   return (
-//     <div>
-//       <h1>Square: {square}</h1>
-
-//       <button onClick={() => setNumber(number + 1)}>
-//         Increase
-//       </button>
-//     </div>
-//   );
-// }
 
 
 
